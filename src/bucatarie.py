@@ -19,3 +19,6 @@ class Bucatarie:
         Sa se scada din inventar ingredientele respective
         """
         pass
+
+    def salveaza_inventar(self):
+        pass
