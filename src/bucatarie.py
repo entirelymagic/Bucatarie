@@ -14,11 +14,5 @@ class Bucatarie:
         """
         pass
 
-    def adauga_inventar(self, lista_ingredient):
-        """
-        Sa se scada din inventar ingredientele respective
-        """
-        pass
-
     def salveaza_inventar(self):
         pass
