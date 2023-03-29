@@ -1,0 +1,5 @@
+# adaugarea tuturor fisierelor:
+git add .
+
+# comanda pentru a trimite fisierele adaugate sau modificate si adaugate
+git push
